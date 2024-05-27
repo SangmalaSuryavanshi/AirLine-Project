@@ -1,0 +1,7 @@
+The project includes a UI, also known as GUI (Graphical User Interface), which consists of buttons, text fields, and other graphical elements used to interact with the user.
+The GUI will be built using the Java Swing library.
+Java Swing is a library similar to Java util, which provides various features and functionality.
+Libraries are essential for utilizing the properties and functionalities they offer.
+Including the Java Swing library is necessary to use its functionality for building the project's front end.
+Java developers need to learn different libraries to leverage their functionality.
+Java Swing includes components such as JFrame, JButton, and JPanel, which will be used to build the project's front end.
